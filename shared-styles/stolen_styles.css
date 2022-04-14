@@ -1,0 +1,47 @@
+a:active,a:hover{
+	outline:0
+}
+
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{
+	font-family:BrixSansBold,Helvetica,Arial,sans-serif;
+	font-weight:700;
+	line-height:.917;
+	color:inherit
+}
+
+.h1,.h2,.h3,h1,h2,h3{
+	margin-top:23px;
+	margin-bottom:11.5px
+}
+
+.h1,h1{
+	font-size:38px
+}
+.h2,h2{
+	font-size:28px
+}
+.h3,h3{
+	font-size:25px
+}
+.h4,h4{
+	font-size:18px
+}
+.h5,h5{
+	font-size:16px
+}
+.h6,h6{
+	font-size:14px
+}
+p{
+	margin:0 0 11.5px
+}
+
+.page-header{
+	padding-bottom:10.5px;
+	margin:46px 0 23px;
+	border-bottom:1px solid #eee
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{
+	display:block
+}

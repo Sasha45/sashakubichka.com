@@ -1,0 +1,36 @@
+:root {
+    /* Main Colors */
+    --darkblue: #182B49;
+    --medblue: #00629B;
+    --darkyellow: #C69214;
+    --medyellow: #FFCD00;
+
+    /* Accent colors */
+    --accentblue: #00C6D7;
+    --accentgreen: #6E963B;
+    --accentyellow: #F3E500;
+    --accentorange: #FC8900;
+
+    /* Neutral colors */
+    --black: #000000;
+    --darkgray: #747678;
+    --lightgray: #B6B1A9;
+    --darkgold: #84754E;
+
+
+    /* Palettes:
+    Normal: Medblue, Medyellow, Darkgrey
+    Dark: Darkblue, Darkyellow, Lightgray
+    Bright: Accentblue, Accentyellow, Accentorange
+    Monochrome: medblue, Darkblue, accentblue
+    */
+}
+
+
+* {
+    font-family: BrixSansBold, Helvetica, Arial, sans-serif;
+}
+
+.navbar {
+    orientation: horizontal;
+}
