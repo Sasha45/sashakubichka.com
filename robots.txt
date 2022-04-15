@@ -1,0 +1,8 @@
+User-agent: YandexBot
+Disallow: /
+
+User-agent: YandexAdNet
+Disallow: /
+
+User-agent: *
+Disallow: stolen_styles.css
