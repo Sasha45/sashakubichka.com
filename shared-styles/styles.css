@@ -36,6 +36,19 @@
 }
 
 #left-box {
-    display: flex;
-    align-self: center;
+    /* display: flex; */
+    /* align-items: center; */
+    padding: 0.5cm;
+    margin-left: 65%;
+    width: 30%;
+    height: auto;
+    background-color: #B6B1A9;
+}
+
+p {
+    color: var(--darkblue);
+}
+
+h2 {
+    color: #182B49;
 }
