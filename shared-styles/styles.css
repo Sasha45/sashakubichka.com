@@ -34,3 +34,8 @@
 .navbar {
     orientation: horizontal;
 }
+
+#left-box {
+    display: flex;
+    align-self: center;
+}
