@@ -1,14 +1,14 @@
 #!/usr/bin/perl
 
-print "Cache-Control: no-cache\n";
-print "Content-type: text/html\n\n";
+print "Cache-Control: no-cache";
+print "Content-type: text/html\n";
 print "<html>";
 print "<head>";
 print "<title>Hello, Perl!</title>";
 print "</head>";
 print "<body>";
 
-print "<h1>Thomas was here - Hello, Perl!</h1>";
+print "<h1>Sasha was here - Hello, Perl!</h1>";
 print "<p>This page was generated with the Perl programming langauge</p>";
 
 $date = localtime();
