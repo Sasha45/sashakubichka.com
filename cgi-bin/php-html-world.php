@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
 
 print "Cache-Control: no-cache\n";
@@ -22,3 +26,6 @@ print "</body>";
 print "</html>";
 
 ?>
+
+</body>
+</html>
